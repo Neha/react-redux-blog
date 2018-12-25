@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+ width: 800px;
+ margin:0 auto;
+}
+
+*{
+  margin:0;
+  padding:0;
+}
+
+ul li{
+  list-style: none;
+  border-bottom:1px solid #999;
+  padding:15px 5px;
+  margin:10px 0;
+}
+
+ul li h2{
+  text-transform: uppercase;
+}
+
